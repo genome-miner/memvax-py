@@ -1,0 +1,9 @@
+Pathogen,Positives (n),Controls (n),Pos Mean ACS,Control Mean ACS,ROC-AUC,p-value
+Bordetella pertussis,5,25,85.3,70.64,0.888,0.002
+Hepatitis B virus,1,5,55.42,57.48,0.8,0.333
+Human papillomavirus,2,10,62.17,65.51,0.45,0.621
+Mycobacterium tuberculosis,3,15,74.83,67.49,0.756,0.102
+Neisseria meningitidis,5,25,88.4,63.26,0.96,1.33e-04
+Respiratory syncytial virus,2,10,74.6,66.42,0.85,0.091
+SARS-CoV-2,5,25,74.06,73.13,0.544,0.390
+Streptococcus pneumoniae,3,15,81.67,62.22,0.911,0.013

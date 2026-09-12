@@ -1,0 +1,7 @@
+data/proteomes/SARS_CoV_2_Delta.fasta
+data/proteomes/SARS_CoV_2_Delta.psq
+data/proteomes/SARS_CoV_2_Delta.phr
+data/blast_db/human_refseq.fasta
+data/blast_db/human_refseq.psq
+__pycache__/
+__pycache__/

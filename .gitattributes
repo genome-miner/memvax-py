@@ -1,0 +1,2 @@
+validation/proteomes/*.fasta filter=lfs diff=lfs merge=lfs -text
+data/**/*.fasta filter=lfs diff=lfs merge=lfs -text

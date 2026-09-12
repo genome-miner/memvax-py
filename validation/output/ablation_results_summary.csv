@@ -1,0 +1,7 @@
+Model Condition,Omitted Module,Renormalized Weights,Positives Mean ACS,Controls Mean ACS,ROC-AUC,Delta AUC,p-value
+Full Model (A+T+H+C+U),None,"A:30%, T:25%, H:15%, C:20%, U:10%",78.36,67.14,0.7716,0.0,6.41e-06
+Without Antigenicity (-A),Mod1_Antigenicity,"Mod2:35.71%, Mod3:21.43%, Mod4:28.57%, Mod5:14.29%",84.04,77.06,0.65,-0.1216,0.0080
+Without Topology (-T),Mod2_Topology,"Mod1:40.00%, Mod3:20.00%, Mod4:26.67%, Mod5:13.33%",81.66,70.81,0.8414,0.0698,2.06e-08
+Without Host Similarity (-H),Mod3_HostSim,"Mod1:35.29%, Mod2:29.41%, Mod4:23.53%, Mod5:11.76%",74.63,62.23,0.7568,-0.0148,1.85e-05
+Without Conservation (-C),Mod4_Conservation,"Mod1:37.50%, Mod2:31.25%, Mod3:18.75%, Mod5:12.50%",75.0,61.62,0.776,0.0044,4.62e-06
+Without Usable Region (-U),Mod5_UsableRegion,"Mod1:33.33%, Mod2:27.78%, Mod3:16.67%, Mod4:22.22%",77.7,65.91,0.7692,-0.0024,7.62e-06
