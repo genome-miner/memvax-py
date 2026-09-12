@@ -560,6 +560,10 @@ A leave-one-module-out ablation study was performed to assess how each module af
 | Without Host Similarity (-H) | 0.7568 | -0.0148 | 1.85 × 10⁻⁵ |
 | Without Conservation (-C) | 0.7760 | +0.0044 | 4.62 × 10⁻⁶ |
 | Without Usable Region (-U) | 0.7692 | -0.0024 | 7.62 × 10⁻⁶ |
+<br>
+<div align="center">
+  <img src="https://github.com/genome-miner/memvax-py/blob/main/validation/output/ablation_analysis.png" alt="Docking" width="700">
+</div>
 
 ### Interpretation
 
